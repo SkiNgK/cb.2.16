@@ -1,0 +1,45 @@
+Nome: Flavio
+
+1ª nota: 5.55
+2ª nota: 6.00
+3ª nota: 9.70
+
+Media do aluno:7.08
+
+----------
+Nome: José
+
+1ª nota: 6.00
+2ª nota: 2.00
+3ª nota: 4.44
+
+Media do aluno:4.15
+
+----------
+Nome: Mariana
+
+1ª nota: 5.00
+2ª nota: 4.00
+3ª nota: 9.90
+
+Media do aluno:6.30
+
+----------
+Nome: Flavio
+
+1ª nota: 2.00
+2ª nota: 2.00
+3ª nota: 2.00
+
+Média do aluno:2.00
+
+----------
+Nome: Osvaldo
+
+1ª nota: 5.00
+2ª nota: 4.00
+3ª nota: 6.00
+
+Média do aluno:5.00
+
+----------

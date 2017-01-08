@@ -1,0 +1,4 @@
+As palavras 'bacana' e 'bacana' são iguais.
+As palavras 'maneiro' e 'maneiro' são iguais.
+As palavras 'cachoeira' e 'cachoeira' são iguais.
+As palavras 'hot' e 'hot' são iguais.
